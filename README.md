@@ -29,9 +29,13 @@
 </div>
  
  
- <br><br>
+<br><br>
+<div align = "center">
+<h3>Cobrinha</h3>
+ 
 ![Snake animation](https://github.com/AloStawi/AloStawi/blob/output/github-contribution-grid-snake.svg)
-
+  
+</div>
 
 <!--
 **AloStawi/AloStawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
