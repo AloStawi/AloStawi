@@ -30,7 +30,8 @@
  
  
  <br><br>
- <h1 align = "center">Teste</h1>
+<h3 align = "center">Cobrinha</h3>
+
 ![Snake animation](https://github.com/AloStawi/AloStawi/blob/output/github-contribution-grid-snake.svg)
 
 
