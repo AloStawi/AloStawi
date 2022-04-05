@@ -1,5 +1,5 @@
 ## Olá! Seja bem vindo(a) ao meu Github.
-<p align = "left">Me chamo <strong>Isabelle Nascimento</strong> e tenho 18 anos. Me descobri apaixonada pela área da técnologia assim que ingressei no Instituto Federal de São Paulo, ver desafios constantes e enxergar a necessidade da técnologia no nosso dia a dia me fez ficar apaixonada pela área, por esse motivo estou buscando evoluir cada dia mais em coisas novas.</p>
+<p align = "left">Me chamo <strong>Isabelle Nascimento</strong> e tenho 18 anos. Me descobri apaixonada pela área da técnologia assim que ingressei no Instituto Federal de São Paulo, ver desafios constantes e enxergar a necessidade da técnologia no nosso dia a dia me fez ficar apaixonada pela área, por esse motivo estou buscando evoluir cada dia mais.</p>
 <br>
 
 
