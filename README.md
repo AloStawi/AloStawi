@@ -7,7 +7,7 @@
 </div>
 
 <div align="left" width='10px'>
-<blockquote>Graduanda em Análise e desenvolvimento de sistemas. <br>Técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. <br>Completamente apaixonada pela tecnologia e pelas possíbilidades inimagináveis que podemos alcançar. <br>Busco me aperfeiçoar e me desenvolver constantemente.</blockquote>
+<blockquote>Graduanda em Análise e desenvolvimento de sistemas. <br>Técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. <br>Completamente apaixonada pela tecnologia. <br>Busco me aperfeiçoar e me desenvolver constantemente.</blockquote>
 </div>
 
 ![tumblr_mm7gdb53IN1re7l7wo1_r1_250](https://github.com/user-attachments/assets/0020e81f-1a0c-448a-b02c-9419d61d53ee&center=true&vCenter=true)
